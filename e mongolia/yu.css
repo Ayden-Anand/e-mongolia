@@ -127,7 +127,7 @@ body{
     margin: 8px;
 
 }
-.drake{
+#drake{
     font-size: xx-large;
     color: rgb(0, 102, 255);
     font-family: cursive;
@@ -138,4 +138,71 @@ body{
 .endl{
     display: flex;
     justify-content: center;
+}
+#ani{
+    width: 182.5px;
+    height: 244px;
+    margin: 7px;
+}
+.an{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.idk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.gega{
+    width: 360px;
+    height: 35px;
+    color: rgb(34, 34, 62);
+    background-color: rgb(235, 235, 235);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 90px;
+    font-size: large;
+    font-family: cursive;
+}
+.number{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    flex-direction: row;
+}
+#numbers{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 120px;
+}
+#num{
+    color: rgb(0, 98, 255);
+    font-size:xx-large ;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+#opl{
+    color: rgb(64, 64, 64);
+    font-family: cursive;
+    font-size: large;
+    margin-top: 10px;
+}
+#line{
+    width: 2px;
+    height: 60px;
+    background-color: rgb(158, 158, 158);
+}
+.last{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.omg{
+    margin-top: 30px;
 }
